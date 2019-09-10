@@ -1,7 +1,10 @@
-Today we went over topic 3.13, pi, and html.
-Learning over different networks and classifying them together as a class was very interactive.
-Using the Råspberry Pi as a server to host our websties was one of the most valuable experiences so far. Hosting has 
-always been one of the concepts in CS that has been difficult to grasp or visualize. That activty was both interactive,
-educational and practical. Even though this was only an introduction, I feel more confident in these sort of topics.
-I would need to study how these concepts are applied in bigger projects in case we want to deploy our website to the web.
-Also, what services are the most popular to host a website and understand how they work.
+Today we went on how to set up a VPN server with a raspberry pi.
+
+I learned the basics of VPN, their purpose, and their inner workings. I also practiced my skills with the terminal and its
+comands
+
+I experienced some challenges when I had to connect my mac and android devices to the vpn, so I quickly looked for resources
+online to be able to do so. 
+
+I still have some questions on terms of the boundaries of this kind of server due to space constraints. How many users can 
+connect to a single raspberry pi and what tasks they can perform without crowding the network.
