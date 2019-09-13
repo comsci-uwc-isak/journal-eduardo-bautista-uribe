@@ -56,3 +56,45 @@ since I would need to request access constantly.
 
 I am still curious about how I could implement this kind of service back in my house back in Mexico in order to make the 
 network of my friends and family safer.
+
+********************************************************************************************************************
+********************************************************************************************************************
+September 13th, 2019
+
+This class was highly informative since I learned more specialized concepts about networks and and how VPNs work.
+
+Our team (Arturo, Maddox, me) created a slides deck 
+https://docs.google.com/presentation/d/11p-Cq8maeChwncQCO8O8wgYVf8MHBQhjWFcbds2WXrQ/edit?usp=sharing
+
+We explained the purpose of VPNs
+More security, identity concealment, fun project.
+
+We employed PiVPN to configure Open VPN, which iOpenVPN is an open-source commercial software that implements virtual 
+private network (VPN) techniques to create secure point-to-point or site-to-site connections in routed or bridged 
+configurations and remote access facilities. 
+Source: (Open VPN website)
+
+We went over the definitions of UDP protocol and DNS providers. However, we could have improved our slides by contrasting
+UDP with TCP.
+
+While I was watching a video on VPNs, I wrote down 4 concepts I didn't grasp at first, but I looked up their 
+definitions and this is what I found out:
+
+1. Default Gateway
+Default gateway is the address of router.
+
+2. Subnet Mask
+Subnet mask is used to differentiate Network ID and Host ID from a given IP
+address. The default subnet mask are as under
+Class A = 255.0.0.0
+Class B = 255.255.0.0
+Class C = 255.255.255.0
+
+3. Loopback address
+The loopback address is 127.0.0.1. This address is used to check local TCP/IP
+suite or local machine.
+
+4. What protocol is used by PING
+Ping uses ICMP(Internet Control Management Protocol)
+
+Source: (https://bit.ly/2kJUdTz)
