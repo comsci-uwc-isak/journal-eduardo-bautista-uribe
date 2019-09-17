@@ -21,8 +21,8 @@ I would need to study how these concepts are applied in bigger projects in case 
 Also, what services are the most popular to host a website and understand how they work.
 
 
-********************************************************************************************************************
-********************************************************************************************************************
+****************************************************************************************************************************
+****************************************************************************************************************************
 September 10th, 2019
 
 Today we went on how to set up a VPN server with a raspberry pi.
@@ -37,8 +37,8 @@ I still have some questions on terms of the boundaries of this kind of server du
 connect to a single raspberry pi and what tasks they can perform without crowding the network.
 
 
-********************************************************************************************************************
-********************************************************************************************************************
+****************************************************************************************************************************
+****************************************************************************************************************************
 
 September 12th, 2019
 
@@ -57,8 +57,8 @@ since I would need to request access constantly.
 I am still curious about how I could implement this kind of service back in my house back in Mexico in order to make the 
 network of my friends and family safer.
 
-********************************************************************************************************************
-********************************************************************************************************************
+****************************************************************************************************************************
+****************************************************************************************************************************
 September 13th, 2019
 
 This class was highly informative since I learned more specialized concepts about networks and and how VPNs work.
@@ -98,3 +98,34 @@ suite or local machine.
 Ping uses ICMP(Internet Control Management Protocol)
 
 Source: (https://bit.ly/2kJUdTz)
+
+****************************************************************************************************************************
+****************************************************************************************************************************
+
+September 17th, 2019
+
+Today we were introduced to symmetric and asymmetric encryption.
+
+In a nutshell, This is the simplest kind of encryption that involves only one secret key to cipher and decipher
+information. Symmetrical encryption is an old and best-known technique. It is a blended with the plain text of a 
+message to change the content in a particular way. The sender and the recipient should know the secret key that is
+used to encrypt and decrypt all the messages. Blowfish, AES, RC4, DES, RC5, and RC6 are examples of symmetric encryption. 
+The most widely used symmetric algorithm is AES-128, AES-192, and AES-256.
+
+However, the main disadvantage of the symmetric key encryption is that all parties involved have to exchange the key 
+used to encrypt the data before they can decrypt it.
+
+On the other hand, Asymmetrical encryption is also known as public key cryptography, which is a relatively new method, 
+compared to symmetric encryption. Asymmetric encryption uses two keys to encrypt a plain text. Secret keys are exchanged
+over the Internet or a large network. It ensures that malicious persons do not misuse the keys. It is important to note 
+that anyone with a secret key can decrypt the message and this is why asymmetrical encryption uses two related keys to 
+boosting security. A public key is made freely available to anyone who might want to send you a message. The second 
+private key is kept a secret so that you can only know.
+
+Asymmetric encryption is mostly used in day-to-day communication channels, especially over the Internet. Popular asymmetric
+key encryption algorithm includes EIGamal, RSA, DSA, Elliptic curve techniques, PKCS.
+
+We were asked to create an encryption website usign symetric encryption and a general key. Regarding this task, I am still 
+curious to know how we could create a website using asymmetric encryption and generate private keys automatically. 
+
+Source: (https://bit.ly/2pZouPI)
