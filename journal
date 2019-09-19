@@ -37,6 +37,7 @@ I still have some questions on terms of the boundaries of this kind of server du
 connect to a single raspberry pi and what tasks they can perform without crowding the network.
 
 
+
 ****************************************************************************************************************************
 ****************************************************************************************************************************
 
@@ -129,3 +130,46 @@ We were asked to create an encryption website usign symetric encryption and a ge
 curious to know how we could create a website using asymmetric encryption and generate private keys automatically. 
 
 Source: (https://bit.ly/2pZouPI)
+
+
+****************************************************************************************************************************
+****************************************************************************************************************************
+
+September 19th, 2019
+
+Today we had an exciting introduction to coffee script in which we developed the base for our encryption website. 
+
+Since I am really intersted in dynamic web development, this practice allowed me to go beyond the base of HTML and CSS and use
+other tools like CoffeScript. 
+
+I learned the importance of CoffeeScript and how it can make our code shorter and more succinct. In other words, CoffeScript
+converts simpler lines of code into JS (compiles into JS)in which our program can be executed. 
+
+For instance, in pure JS, objects must be expressed as:
+
+var person = {
+  firstName: "John",
+  lastName: "Doe",
+  age: 50,
+  eyeColor: "blue"
+};
+
+On the other hand, using CoffeeScript we can express an abject simply as:
+
+person = 
+ firstName: "John"
+ lastName: "Doe"
+ age: 50
+ eyeColor: "blue"
+ 
+ 
+Nonetheless, when we use CoffeeScript, there's an additional compilation step involved in the process. If speed is our main 
+priority, this extra step becomes an issue.
+Also, the compiler provides very rudimentary diagnostic information in the case of errors. This represents a problem in case
+we want to debug complex codes.
+
+I am still very interested in knowing how we can apply these fundamentals in encryption, specially asymmetric encription due
+to its wide applications. 
+
+****************************************************************************************************************************
+****************************************************************************************************************************
