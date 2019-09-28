@@ -171,5 +171,52 @@ we want to debug complex codes.
 I am still very interested in knowing how we can apply these fundamentals in encryption, specially asymmetric encription due
 to its wide applications. 
 
-****************************************************************************************************************************
-****************************************************************************************************************************
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+September 26th, 2019
+
+I finished coding the user interface. I employed Bootsrap to create a responsive and clean design. During my research of a
+CSS framework, I learned that Bootstrap has some pros and cons.
+
+Pros:
+ -It is open source. This means that the source code is made freely available and may be redistributed and modified
+ collaboratively. 
+ -In bigger projects, development costs will be lower.
+ -I can achieve a great level of consistency and responsiveness without much effort. 
+ 
+ Cons:
+  -My site will look similar to others. This can be a problem if I want to stand out. 
+  -Bootstrap is heavy/large/bloated. 
+  -All decisions are mode for me. This can be a problem if I want to customize my interface. 
+  
+ In conclusion, Bootstrap is an adequate platform for my IA since it is a fast way to achieve the level of consistency and
+ responsiveness that my client needs. Since I am not competing with other platforms, not having an outstanding design does
+ not pose a problem to my web app. 
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+September 27th, 2019
+
+Today I worked on the backend component of my IA. I looked for a way to host my web app at a low cost. I discovered Heroku,
+which is a platform that allows me to rent their servers for free. The points below are some advantages and disadvantages. 
+
+Pros:
+ -Offers standard SQL
+ -Relaitveky painless deployment
+ -Simpler pricing model
+ 
+Cons:
+ -Not as large as Google
+ -Hosted on AWS which suffers major outages.
+ 
+In conclusion, eventhough HEROKU has some disadvantages, they represent a greater burden for bigger projects. Also, its
+advantages are really helpful for a small developer like me. 
+
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+
