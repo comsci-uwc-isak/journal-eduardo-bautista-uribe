@@ -322,3 +322,19 @@ System.out.println("__     ___              ____         ____  _                
     }
 
 }
+
+*****************************************************************************************************************************
+*****************************************************************************************************************************
+Jan. 8th
+
+Double spend problem
+
+Problem:
+Double-spending is a problem in which the same digital currency can be spent more than once. In other words, double-spending is
+an instance in which a transaction uses the same input as another transaction that has already been broadcast on the network. 
+
+Solution
+Bitcoin uses a consensus mechanism known as proof-of-work to avoid the need for a centralized party. Instead of requiring a
+trusted third party to verify that transactions are not double-spends, a decentralized group of individuals known as miners 
+perform this task. All Bitcoin transactions are also included in a shared public ledger known as a blockchain, which ensures 
+that it can be proven that any party wishing to spend bitcoins really is in possession of those bitcoins.
