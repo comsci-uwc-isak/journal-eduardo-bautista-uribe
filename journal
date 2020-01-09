@@ -340,3 +340,14 @@ perform this task. All Bitcoin transactions are also included in a shared public
 that it can be proven that any party wishing to spend bitcoins really is in possession of those bitcoins.
 
 Source: https://www.mycryptopedia.com/double-spending-explained/
+
+Collision of systems
+Entropy
+Determinism
+51% Attack 
+Genesis block
+Merkle tree
+How many blcks are validated at a time?
+Are transaction selected in a FIFO fashion to form a block?
+When is a block availabl to be mined/validated.
+Non repudiation
